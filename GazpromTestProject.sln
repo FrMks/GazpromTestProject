@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GazpromTestProject.API", "GazpromTestProject.API\GazpromTestProject.API.csproj", "{E6586884-87F3-4A29-A2CC-1D7452CA2A5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GazpromTestProject.Infrastructure", "GazpromTestProject.Infrastructure\GazpromTestProject.Infrastructure.csproj", "{21BCF279-5A57-40CF-BC2E-408C912FDDDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GazpromTestProject.Core", "GazpromTestProject.Core\GazpromTestProject.Core.csproj", "{47BD9B83-D8B9-40CC-8468-7047054A1710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GazpromTestProject.Application", "GazpromTestProject.Application\GazpromTestProject.Application.csproj", "{EC8ED7CD-99BA-41F1-9967-62D61C076121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6586884-87F3-4A29-A2CC-1D7452CA2A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6586884-87F3-4A29-A2CC-1D7452CA2A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6586884-87F3-4A29-A2CC-1D7452CA2A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6586884-87F3-4A29-A2CC-1D7452CA2A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BCF279-5A57-40CF-BC2E-408C912FDDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BCF279-5A57-40CF-BC2E-408C912FDDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BCF279-5A57-40CF-BC2E-408C912FDDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BCF279-5A57-40CF-BC2E-408C912FDDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47BD9B83-D8B9-40CC-8468-7047054A1710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BD9B83-D8B9-40CC-8468-7047054A1710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BD9B83-D8B9-40CC-8468-7047054A1710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BD9B83-D8B9-40CC-8468-7047054A1710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8ED7CD-99BA-41F1-9967-62D61C076121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8ED7CD-99BA-41F1-9967-62D61C076121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8ED7CD-99BA-41F1-9967-62D61C076121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8ED7CD-99BA-41F1-9967-62D61C076121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
