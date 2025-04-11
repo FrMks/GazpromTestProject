@@ -5,7 +5,9 @@ namespace GazpromTestProject.Core.Models.Users;
 
 public class Email: ValueObject
 {
-    public string EmailValue { get; }
+    public string EmailValue { get; private set; }
+    
+    private Email() {}
     
     private Email(string email)
     {
@@ -28,6 +30,6 @@ public class Email: ValueObject
     
     protected override IEnumerable<object> GetEqualityComponents()
     {
-        throw new NotImplementedException();
+        yield return EmailValue;
     }
 }

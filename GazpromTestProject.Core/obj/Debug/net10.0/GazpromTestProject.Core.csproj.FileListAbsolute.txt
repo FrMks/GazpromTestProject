@@ -1,0 +1,15 @@
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/bin/Debug/net10.0/GazpromTestProject.Core.deps.json
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/bin/Debug/net10.0/GazpromTestProject.Core.runtimeconfig.json
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/bin/Debug/net10.0/GazpromTestProject.Core.dll
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/bin/Debug/net10.0/GazpromTestProject.Core.pdb
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/obj/Debug/net10.0/GazpromTestProject.Core.csproj.AssemblyReference.cache
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/obj/Debug/net10.0/GazpromTestProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/obj/Debug/net10.0/GazpromTestProject.Core.AssemblyInfoInputs.cache
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/obj/Debug/net10.0/GazpromTestProject.Core.AssemblyInfo.cs
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/obj/Debug/net10.0/GazpromTestProject.Core.csproj.CoreCompileInputs.cache
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/obj/Debug/net10.0/GazpromTestProject.Core.sourcelink.json
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/obj/Debug/net10.0/GazpromTestProject.Core.dll
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/obj/Debug/net10.0/refint/GazpromTestProject.Core.dll
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/obj/Debug/net10.0/GazpromTestProject.Core.pdb
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/obj/Debug/net10.0/GazpromTestProject.Core.genruntimeconfig.cache
+/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Core/obj/Debug/net10.0/ref/GazpromTestProject.Core.dll

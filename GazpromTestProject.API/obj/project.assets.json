@@ -907,6 +907,37 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "GazpromTestProject.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "CSharpFunctionalExtensions": "3.6.0",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.0-preview.2",
+          "Swashbuckle.AspNetCore": "8.1.0"
+        },
+        "compile": {
+          "bin/placeholder/GazpromTestProject.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GazpromTestProject.Core.dll": {}
+        }
+      },
+      "GazpromTestProject.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "CSharpFunctionalExtensions": "3.6.0",
+          "GazpromTestProject.Core": "1.0.0",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.0-preview.2",
+          "Swashbuckle.AspNetCore": "8.1.0"
+        },
+        "compile": {
+          "bin/placeholder/GazpromTestProject.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GazpromTestProject.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -2935,11 +2966,22 @@
         "system.composition.typedparts.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "GazpromTestProject.Core/1.0.0": {
+      "type": "project",
+      "path": "../GazpromTestProject.Core/GazpromTestProject.Core.csproj",
+      "msbuildProject": "../GazpromTestProject.Core/GazpromTestProject.Core.csproj"
+    },
+    "GazpromTestProject.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../GazpromTestProject.Infrastructure/GazpromTestProject.Infrastructure.csproj",
+      "msbuildProject": "../GazpromTestProject.Infrastructure/GazpromTestProject.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "CSharpFunctionalExtensions >= 3.6.0",
+      "GazpromTestProject.Infrastructure >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 10.0.0-preview.2.25163.8",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.0-preview.2.25163.8",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 10.0.0-preview.2",
@@ -2970,7 +3012,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Infrastructure/GazpromTestProject.Infrastructure.csproj": {
+              "projectPath": "/Users/maksimfrancuzov/Developer/CNet/RiderProjects/GazpromTestProject/GazpromTestProject.Infrastructure/GazpromTestProject.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

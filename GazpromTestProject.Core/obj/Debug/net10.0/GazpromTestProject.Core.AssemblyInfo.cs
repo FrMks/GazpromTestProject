@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GazpromTestProject.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+588fd437d0257397ea259f4ffb324fd6ce88737e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GazpromTestProject.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GazpromTestProject.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
